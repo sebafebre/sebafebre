@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=40&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Sebastian+Febre;Soy+un+desarrollador+y+estudiante+de+Ingenieria;Bienvenido+a+mi+perfil+de+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=40&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Sebastian+Febre;Soy+un+estudiante+de+Ingenieria+en+Sistemas;Bienvenido+a+mi+perfil+de+Github)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 <table>
