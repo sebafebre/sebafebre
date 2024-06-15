@@ -1,12 +1,27 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=40&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Sebastian+Febre;Soy+un+desarrollador+y+estudiante+de+Ingenieria;Bienvenido+a+mi+perfil+de+Github)](https://git.io/typing-svg)
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+<table>
+  <tr>
+    <td>
+       <ul>
+        <li>🎓 &nbsp; Estudiante de Ingenieria en sistemas <a href="(https://uai.edu.ar/)">UAI</a></li>
+        <li>📚 &nbsp; Estudiando Estadistica y Finanzas por mi cuenta</a></li>
+        <li>🤔 &nbsp; Interesado en Machine Learning y Optimizacion</li>
+        <li>👑 &nbsp; Puesto de desarrollador cuantitativo </li>
+       </ul>
+    </td>
+    <td>
+     <p align="center">
+        <img height="360em" src="https://github.com/sebafebre/sebafebre/assets/85856725/dd49948c-0086-48dd-9f84-1e690ba15763"/>
+     </p>
+    </td>
+  </tr>
+</table>
 
- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
  
-* A passionate Self-taught Front-end developer
-* Playing CTF's at spare time
-* Currently learning Web Development by Self
-* Personal website [link](https://www.0xabdulkhalid.ml)
-* I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+ 
+
 
 <br>
 <br>
@@ -112,10 +127,10 @@
 <div>
   <p>
     <a href="https://github.com/sebafebre/Hotel-SGH">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebafebre&repo=Hotel-SGH" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/sebafebre/Hotel-SGH">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebafebre&repo=Hotel-SGH" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -126,7 +141,7 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sebafebre&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sebafebre&theme=github_dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebafebre&theme=dark&hide_border=true" />
 
