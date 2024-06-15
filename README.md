@@ -5,10 +5,10 @@
   <tr>
     <td>
        <ul>
-        <li>🎓 &nbsp; Estudiante de Ingenieria en sistemas <a href="(https://uai.edu.ar/)">UAI</a></li>
-        <li>📚 &nbsp; Estudiando Estadistica y Finanzas por mi cuenta</a></li>
-        <li>🤔 &nbsp; Interesado en Machine Learning y Optimizacion</li>
-        <li>👑 &nbsp; Puesto de desarrollador cuantitativo </li>
+        <li>🎓 &nbsp; Estudiante de Ingeniería en Sistemas en la <a href="https://uai.edu.ar/">UAI</a></li>
+        <li>📚 &nbsp; Autodidacta en Estadística y Finanzas</li>
+        <li>🤔 &nbsp; Apasionado por el Machine Learning y la Optimización</li>
+        <li>👑 &nbsp; Interesado en el Desarrollado Cuantitativo</li>
        </ul>
     </td>
     <td>
