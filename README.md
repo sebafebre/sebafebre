@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=40&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Sebastian+Febre;Soy+un+estudiante+de+Ingenieria+en+Sistemas;Bienvenido+a+mi+perfil+de+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=40&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Sebastian+Febre;Ingeniero+en+Sistemas;Bienvenido+a+mi+perfil+de+Github)](https://git.io/typing-svg)
 ![Sin título](https://github.com/sebafebre/sebafebre/assets/85856725/023ec52d-ab71-4a6e-9648-5943d4cba51e)
 
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Contactame<br> [![LinkedIn](https://img.shields.io/badge/Sebastian%20Febre-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-febre/) </b>
@@ -8,7 +8,7 @@
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mi**
 
 <ul>
-  <li>🎓 &nbsp; Estudiante de Ingeniería en Sistemas en la <a href="https://uai.edu.ar/">UAI</a></li>
+  <li>🎓 &nbsp; Ingeniero en Sistemas Informaticos</li>
   <li>📚 &nbsp; Autodidacta en Estadística y Finanzas</li>
   <li>🤔 &nbsp; Apasionado por el Machine Learning y la Optimización</li>
   <li>👑 &nbsp; Interesado en el Desarrollo Cuantitativo</li>
